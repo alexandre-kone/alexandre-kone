@@ -1,27 +1,27 @@
 # Alexandre Koné
 
-**Tech lead full stack freelance.** TypeScript, NestJS, React.
-Je travaille sur des logiciels où une erreur coûte cher : facturation certifiée NF525, banque, santé.
+**Freelance full-stack tech lead.** TypeScript, NestJS, React.
+I work on software where a mistake is expensive: certified invoicing (NF525), banking, healthcare.
 
-## Ce que je fais
+## What I do
 
-- **Renfort tech lead** : je structure une équipe, je pose l'architecture, je laisse un code que l'on peut reprendre sans moi.
-- **Facturation électronique** : factures UBL conformes à la norme EN 16931, raccordement à une Plateforme Agréée (PDP), e-reporting.
-- **Intégration de l'IA** dans des outils existants, avec mesure des coûts et relecture humaine.
+- **Tech lead on demand**: I structure the team, set the architecture, and leave code that others can maintain without me.
+- **E-invoicing**: UBL invoices compliant with the EN 16931 standard, connection to a French accredited platform (Plateforme Agréée, PDP), e-reporting.
+- **AI integration** into existing tools, with cost tracking and human review.
 
-## D'où je viens
+## Background
 
-Dix ans de développement. Tech lead d'un logiciel de facturation certifié NF525, dont l'audit a été passé en équipe. Avant cela : une application de reporting pour des banques au Luxembourg, une application de santé, des outils internes chez Roche et Cartier. Presque toujours à distance.
+Ten years of software development. Tech lead for an NF525-certified invoicing application; the certification audit was passed as a team. Before that: a reporting application for banks in Luxembourg, a healthcare application, internal tools at Roche and Cartier. Almost always remote.
 
-L'essentiel de mon code vit dans des dépôts privés. Le graphique de contributions les compte, sans les montrer.
+Most of my code lives in private repositories. The contribution graph counts it without showing it.
 
-## Pile technique
+## Stack
 
 TypeScript · NestJS · Node.js · React · Angular · PHP / Symfony · PostgreSQL · Google Cloud · Docker · CI/CD
 
-## Me joindre
+## Get in touch
 
-Disponible pour une mission ou un forfait à partir de janvier 2027.
+Available for a contract or a fixed-price project from January 2027.
 
-- LinkedIn : [linkedin.com/in/alexandre-kone](https://www.linkedin.com/in/alexandre-kone)
-- Société : 20 Touch SARL, Tanger. Je travaille à l'heure de Paris, en français, en anglais ou en arabe.
+- LinkedIn: [linkedin.com/in/alexandre-kone](https://www.linkedin.com/in/alexandre-kone)
+- Company: 20 Touch SARL, Tangier, Morocco. I work on Paris time, in French, English or Arabic.
