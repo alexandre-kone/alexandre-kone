@@ -21,7 +21,7 @@ TypeScript · NestJS · Node.js · React · Angular · PHP / Symfony · PostgreS
 
 ## Get in touch
 
-Available for a contract or a fixed-price project from January 2027.
+Available now for a contract or a fixed-price project.
 
 - LinkedIn: [linkedin.com/in/alexandre-kone](https://www.linkedin.com/in/alexandre-kone)
 - Company: 20 Touch SARL, Tangier, Morocco. I work on Paris time, in French, English or Arabic.
